@@ -46,6 +46,8 @@ pure-eval==0.2.3
     # via stack-data
 pycodestyle==2.14.0
     # via autopep8
+pycryptodome==3.23.0
+    # via -r requirements.in
 pygments==2.19.2
     # via
     #   ipython
